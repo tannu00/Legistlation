@@ -16,7 +16,13 @@
 >[Chapter 12 - Against criminal offenses](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-12---against-criminal-offenses)  
 >[Chapter 13 - Crimes against public order](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-13---crimes-against-public-order)  
 >[Chapter 14 - Violation of privacy peace and honor](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-14---violation-of-privacy-peace-and-honor)  
->[Chapter 15 - Offenses against liberty](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-15---offenses-against-liberty)
+>[Chapter 15 - Offenses against liberty](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-15---offenses-against-liberty)  
+>[Chapter 16 - Theft embezzlement and unauthorized use](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-16---theft-embezzlement-and-unauthorized-use)  
+>[Chapter 17 - for business offenses](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-17---for-business-offenses)  
+>[Chapter 18 - About robbery and blackmail](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-18---about-robbery-and-blackmail)  
+>[Chapter 19 - Fraud and other dishonesty](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-19---fraud-and-other-dishonesty)  
+>[Chapter 20 - Information and communication crimes](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-20----information-and-communication-crimes)  
+>[Chapter 21 - Debtors crimes](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-21---debtors-crimes
 
 ## _**Chapter 1 - On the scope of the criminal law**_
 
