@@ -22,7 +22,7 @@
 >[Chapter 18 - About robbery and blackmail](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-18---about-robbery-and-blackmail)  
 >[Chapter 19 - Fraud and other dishonesty](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-19---fraud-and-other-dishonesty)  
 >[Chapter 20 - Information and communication crimes](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-20----information-and-communication-crimes)  
->[Chapter 21 - Debtors crimes](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-21---debtors-crimes
+>[Chapter 21 - Debtors crimes](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-21---debtors-crimes)
 
 ## _**Chapter 1 - On the scope of the criminal law**_
 
