@@ -2,8 +2,11 @@
 
 
 >[Chapter 1 - On the scope of the criminal law](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-1---on-the-scope-of-the-criminal-law)  
->[Chapter 2 - On penalties](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-2---on-penalties)
-
+>[Chapter 2 - On penalties](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-2---on-penalties)  
+>[Chapter 2b - on imprisonment and combined punishment](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-2-b---on-imprisonment-and-combined-punishment)  
+>[Chapter 3 - general conditions of criminal liability](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-3---general-conditions-of-criminal-liability)  
+>[Chapter 4 - discharge criteria](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-4---discharge-criteria)  
+>[Chapter 5 - about attempt and inclusion](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-5---about-attempt-and-inclusion)  
 
 ## _**Chapter 1 - On the scope of the criminal law**_
 
