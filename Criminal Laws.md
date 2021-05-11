@@ -7,6 +7,16 @@
 >[Chapter 3 - General conditions of criminal liability](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-3---general-conditions-of-criminal-liability)  
 >[Chapter 4 - Discharge criteria](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-4---discharge-criteria)  
 >[Chapter 5 - About attempt and inclusion](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-5---about-attempt-and-inclusion)  
+>[Chapter 6 - Imposing a penalty](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-6---imposing-a-penalty)  
+>[Chapter 7 - On the joint punishment](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-7---on-the-joint-punishment)  
+>[Chapter 8 - War crimes and crimes against humanity]https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-8---war-crimes-and-crimes-against-humanity  
+>[Chapter 9 - On treason](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-9---on-treason)  
+>[Chapter 10 - For treason offenses](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-10---for-treason-offenses)  
+>[Chapter 11 - Crimes against-political rights](https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-11---crimes-against-political-rights)  
+>[Chapter 12 - ]https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-12---against-criminal-offenses  
+>[Chapter 13 - ]https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-13---crimes-against-public-order
+>[Chapter 14 - ]https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-14---violation-of-privacy-peace-and-honor
+>[Chapter 15 - ]https://github.com/tannu00/Legistlation/blob/main/Criminal%20Laws.md#chapter-15---offenses-against-liberty
 
 ## _**Chapter 1 - On the scope of the criminal law**_
 
