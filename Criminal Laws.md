@@ -1,5 +1,7 @@
 # _**Criminal Law**_
 
+[Chapter 1 - On the scope of the criminal law](https://github.com/tannu00/Legistlation/wiki/Criminal-Laws#chapter-1---on-the-scope-of-the-criminal-law)
+[Chapter 2 - On penalties](https://github.com/tannu00/Legistlation/wiki/Criminal-Laws#chapter-2---on-penalties)
 
 
 ## _**Chapter 1 - On the scope of the criminal law**_
